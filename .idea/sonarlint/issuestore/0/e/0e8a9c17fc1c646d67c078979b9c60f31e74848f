@@ -1,0 +1,11 @@
+
+R
+java:S3655%"7Call "Optional#isPresent()" before accessing the value.(Å°ÏÆûÿÿÿÿ
+Y
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(ôµƒ€üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(Œ€ç‡ùÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(Å°ÏÆûÿÿÿÿ
+N	java:S106b"9Replace this use of System.out or System.err by a logger.(éµê³
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(öÑ’”üÿÿÿÿ
+M	java:S106f"9Replace this use of System.out or System.err by a logger.(°•Þ
