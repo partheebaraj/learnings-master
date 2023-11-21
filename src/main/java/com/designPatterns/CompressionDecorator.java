@@ -10,7 +10,7 @@ import java.util.zip.DeflaterOutputStream;
 import java.util.zip.InflaterInputStream;
 
 /**
- * compression and decompression util
+ * compression and decompression util,
  */
 public class CompressionDecorator extends DataSourceDecorator {
 

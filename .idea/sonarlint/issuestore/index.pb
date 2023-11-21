@@ -35,3 +35,5 @@ g
 7src/main/java/com/designPatterns/CurrencyDecorator.java,7/6/76bb214c3021a40f8af6fd5a632b83f18526e592
 j
 :src/main/java/com/designPatterns/CompressionDecorator.java,0/e/0e9b55fc12811b721683d04a597970c21b370496
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
